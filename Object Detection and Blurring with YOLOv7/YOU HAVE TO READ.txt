@@ -1,0 +1,4 @@
+CODE CREATOR:
+	https://github.com/RizwanMunawar/yolov7-object-blurring
+
+I JUST TRY CODE ON VIDEO.
